@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Interview Suite">
+  <test name="Checkout Test">
+    <classes>
+      <class name="seleniumInterview.InterviewTest"/>
+    </classes>
+  </test>
+</suite>
